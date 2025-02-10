@@ -16,22 +16,21 @@ Esse projeto tem o objetivo de realizar problemas de média e alta complexidade 
 [Link da Apresentação](https://www.youtube.com/embed/lB6kVdxrcDY?si=7HjDBkAeTRawL3qt)
 
 
-#### [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
-**Dificuldade:** Medium  
-**Descrição:** O problema requer encontrar o número mínimo de saltos para alcançar o último índice de um array, dado que cada elemento do array indica o máximo de posições que você pode saltar para frente a partir desse índice. Para resolver este problema, usamos algoritmos ambiciosos.  
+#### [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
+**Dificuldade:** Hard    
 ![Imagem](img/45_submission.png)
 
-#### [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)
-**Dificuldade:** Hard  
-**Descrição:** Para resolver este problema com um algoritmo ambicioso, a ideia é que, para maximizar o somatório dos coeficientes de tempo de satisfação, devemos ordenar as satisfações em ordem decrescente e somar os pratos de forma que o impacto das satisfações maiores seja multiplicado por tempos maiores.
+#### [198. House Robber](https://leetcode.com/problems/house-robber/description/)
+**Dificuldade:** Medium  
 ![Imagem](img/1402_submission.png)
 
-#### [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description/)
-**Dificuldade:** Hard  
-**Descrição:** Para resolver este problema, onde temos que determinar o dia mais cedo em que todas as sementes estarão florescendo, precisamos considerar a ordem em que plantamos as sementes.  
+#### [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/description/)
+**Dificuldade:** Hard   
 ![Imagem](img/2136_submission.png)
 
-
+#### [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)
+**Dificuldade:** Hard   
+![Imagem](img/2136_submission.png)
 
 **Linguagem**: Python<br>
 
