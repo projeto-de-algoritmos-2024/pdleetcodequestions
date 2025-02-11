@@ -13,7 +13,7 @@
 Esse projeto tem o objetivo de realizar problemas de média e alta complexidade no juíz LeetCode. Os exercícios serão resolvidos com base no conteúdo do conteúdo PD. 
 
 ## Apresentação
-[Link da Apresentação](https://www.youtube.com/embed/lB6kVdxrcDY?si=7HjDBkAeTRawL3qt)
+[Link da Apresentação](https://www.youtube.com/watch?v=N516GSY-opw)
 
 
 #### [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
